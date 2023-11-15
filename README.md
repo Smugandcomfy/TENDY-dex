@@ -1,3 +1,6 @@
+tendy dex
+alt orderbook for alt projects with eventual amm
+
 # ICDex
 
 ICDex: A fully on-chain orderbook Dex, with decentralised features and a great user experience like CEX.
